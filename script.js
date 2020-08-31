@@ -25,7 +25,7 @@ $(".save").on( "click",function(){
     localStorage.setItem(apptTime,apptName)
 })
 
-s$(".row").each(function(){
+$(".row").each(function(){
     var blockHour = $(this).attr("id");
     if(blockHour < currentTime){
         $(this).children(".list-group-item").addClass("past");
