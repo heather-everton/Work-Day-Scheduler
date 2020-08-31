@@ -25,7 +25,7 @@ $(".save").on( "click",function(){
     localStorage.setItem(apptTime,apptName)
 })
 
-var auditCal = $(".row").each(function(){
+s$(".row").each(function(){
     var blockHour = $(this).attr("id");
     if(blockHour < currentTime){
         $(this).children(".list-group-item").addClass("past");
@@ -34,9 +34,4 @@ var auditCal = $(".row").each(function(){
     }else{
         $(this).children(".list-group-item").addClass("present");
     }
-})  
-
-setInterval(function () {
-      auditCal();
-}, (1000 * 60));
-
+})
