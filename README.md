@@ -5,11 +5,11 @@
     <img src="./assets/logo.jpg" alt="Logo" width="30%" height="30%">
   </a>
 
-  <h3 align="center">JavaScript Quiiz</h3>
+  <h3 align="center">Work Day Scheduler</h3>
 
   <p align="center">
-    An awesome password generator to help you secure your information!
-    <br />
+  A simple workday scheduluer to help busy professionals keep track of what they need to do each day.
+  <br />
     <a href="https://github.com/heather-everton/Work-Day-Scheduler"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -37,15 +37,15 @@
 ## About The Project
 
 <a href="https://heather-everton.github.io/Work-Day-Scheduler/" rel="nofollow" >
-    <img src="./assets/product-screenshot.jpg" alt="JavaScript Quiz Screenshot" width="100%" height="100%">
+    <img src="./assets/product-screenshot.jpg" alt="Work Day Scheduler Screenshot" width="100%" height="100%">
 </a>
 
-Take a quick quiz to test your knowledge of basic JavaScript. 
+Plan your day and see your productivity skyrocket.
 
 Here's why:
-* You don't want to hire applicants without testing for understanding of the basics.
-* You can easily compare results of various applicants. 
-* You can't afford to spend time trying to figure out if applicants are qualified without a quiz. 
+* You don't want to miss any important meetings.
+* You can easily plan ahead for everything you need to do each day. 
+* You can't afford to spend time playing catch up and missing appointments. 
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -62,8 +62,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get started simply click on "Take the Quiz" and select the answers for each quesitoin.
-
+To get started simply click on the desired timeblock and enter your appointment name. Click save to store the changes.
 
 <!-- ROADMAP -->
 ## Roadmap
